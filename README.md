@@ -1,11 +1,17 @@
-Godot is a free, open source game engine developed at MIT for 2D and 3D game design. 
-Download Godot here https://godotengine.org/. 
 
 This repo contains my Godot projects:
  - Dodge
+ 
+-----------------------------------------------------------------------
+
+GODOT
+
+Godot is a free, open source game engine developed at MIT for 2D and 3D game design. 
+Download Godot here https://godotengine.org/. 
 
 -----------------------------------------------------------------------
-Dodge Tutorial 
+
+DODGE
 
 Dodge is a tutorial game offered by the people at Godot.
 https://godot.readthedocs.io/en/3.0/getting_started/step_by_step/your_first_game.html
