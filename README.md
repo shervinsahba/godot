@@ -1,6 +1,6 @@
 
 This repo contains my Godot projects:
- - Dodge
+ - Dodge the Creeps!
  
 -----------------------------------------------------------------------
 
@@ -11,9 +11,9 @@ Download Godot here https://godotengine.org/.
 
 -----------------------------------------------------------------------
 
-DODGE
+DODGE THE CREEPS!
 
-Dodge is a tutorial game offered by the people at Godot. My version is altered for play on Android devices. The game files are included in game.zip. You can play the game as an app on your Android device by downloading and installing Dodge.apk on your device. I have yet to optimize the filesize. 
+Dodge the Creeps! is a tutorial game offered by the people at Godot. My version is altered for play on Android devices. The game files are included in game.zip. You can play the game as an app on your Android device by downloading and installing Dodge.apk on your device. I have yet to optimize the filesize. 
 
 Major differences from the tutorial:
 - changes made to display options for proper presentation
